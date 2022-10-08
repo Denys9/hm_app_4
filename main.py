@@ -1,6 +1,4 @@
 try:
-    sum = 0
-    num = int(input('Введіть число - '))
     while True:
             num = int(input('Введіть число - '))
             if num != 7:
